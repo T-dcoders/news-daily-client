@@ -9,6 +9,7 @@ export default function Home() {
         <div className="card-body">
           <h2 className="card-title">Shoes!</h2>
           <p>If a dog chews shoes does he choose aro kichu ekta?</p>
+          <p>this line is added by mahmudul </p>
           <div className="card-actions justify-end">
             <button className="btn btn-primary">Hayyy Buy Now !</button>
           </div>
