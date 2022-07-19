@@ -12,7 +12,7 @@ export default function Home() {
           <p>this line is added by mahmudul </p>
           <p>this line is added by mahmudul </p>
           <div className="card-actions justify-end">
-            <button className="btn btn-primary">Hayyy Buy Now !</button>
+            <button className="btn btn-primary">Buy Now !</button>
           </div>
         </div>
       </div>
