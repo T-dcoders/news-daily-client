@@ -1,3 +1,5 @@
+import Footer from "../components/Footer";
+
 export default function Home() {
   return (
     <div className="mx-auto">
@@ -14,6 +16,7 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 }
