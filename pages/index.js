@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="mx-auto">
+    <div className="mx-auto bg-white">
       <p className=" text-center">Hellow </p>
       <div className="card w-96 bg-base-100 shadow-xl">
         <figure>
