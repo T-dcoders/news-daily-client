@@ -67,7 +67,7 @@ const Footer = () => {
   </div>
 
   <hr className='mt-10 mb-2' />
-<h1><span className='font-bold'> © 2022 newsdaily.com | Powered by: Tead D-coder </span></h1>
+<h1><span className='font-bold'> © 2022 newsdaily.com | Powered by: Team D-coders </span></h1>
 <p className='text-white'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, tempora officiis. 
     Adipisci sit omnis quibusdam perspiciatis suscipit, quisquam recusandae saepe. 
     Ea, cupiditate est esse adipisci ipsa fuga delectus. Fuga, repudiandae!</p>
