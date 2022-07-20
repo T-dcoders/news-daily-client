@@ -5,7 +5,18 @@ import youtube from '../assets/youtube.png';
 import twitter from '../assets/twitter.png';
 import pinterest from '../assets/pinterest.png';
 import instagram from '../assets/instagram.png';
+import uparrow from '../assets/up-arrow.png';
+
+
 const Footer = () => {
+
+    const gotoTop =()=>{
+        window.scrollTo({
+            top:0,
+            behavior:'smooth',
+        });
+    }
+
     return ( 
       <div className="">
         <div className={Stylesheet.footerhead}>
@@ -56,13 +67,14 @@ const Footer = () => {
   </div>
 
   <hr className='mt-10 mb-2' />
-<h1><span className='font-bold'> c 2022 newsdaily.com | Powered by: Tead D-coder </span></h1>
+<h1><span className='font-bold'> © 2022 newsdaily.com | Powered by: Tead D-coder </span></h1>
 <p className='text-white'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam, tempora officiis. 
     Adipisci sit omnis quibusdam perspiciatis suscipit, quisquam recusandae saepe. 
     Ea, cupiditate est esse adipisci ipsa fuga delectus. Fuga, repudiandae!</p>
-
+    
+    <button onClick={gotoTop}  className={Stylesheet.uparrow}><Image  width='50px' height='50px' src={uparrow} alt="up" /></button>
 </div>
-
+ 
       </div>
      );
 }
