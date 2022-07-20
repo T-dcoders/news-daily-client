@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div className="mx-auto">
-      <p className=" text-center">Hellow </p>
+      <p className=" text-center">Hellow world</p>
       <div className="card w-96 bg-base-100 shadow-xl">
         <figure>
           <img src="https://placeimg.com/400/225/arch" alt="Shoes" />
