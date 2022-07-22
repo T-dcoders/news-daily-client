@@ -8,7 +8,7 @@ import { AiOutlineClockCircle } from "react-icons/ai";
 //     return console.log(data);
 // }
 
-const business = () => {
+const Business = () => {
   const [bus, setBus] = useState([]);
   useEffect(() => {
     fetch("data.json")
@@ -54,13 +54,8 @@ const business = () => {
           ))}
         </ul>
       </div>
-      {/* <ul>
-        {users.map((user) => (
-          <p>{user.title}</p>
-        ))}
-      </ul> */}
     </div>
   );
 };
 
-export default business;
+export default Business;
