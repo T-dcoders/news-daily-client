@@ -33,7 +33,6 @@ const Footer = () => {
                 <div className="mr-4"><a target="_blank" href=""><Image  width='30px' height='30px' src={pinterest} alt="facebook" /></a></div>
                 <div className="mr-4"><a target="_blank" href=""><Image  width='30px' height='30px' src={instagram} alt="facebook" /></a></div>
 
-                
               
              
               </div>
