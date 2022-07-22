@@ -28,5 +28,11 @@
         "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShneMFI3eaRqrWZ0Z1Pk9XjvX5Wbx74lXYGIlhBnYp7j6Ont1PlY-Z-NDA6Taf6l4J55Y&usqp=CAU",
         "time":"1",
         "description":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use"
+    },
+    {
+        "title":"Dhaka stock exchange",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShneMFI3eaRqrWZ0Z1Pk9XjvX5Wbx74lXYGIlhBnYp7j6Ont1PlY-Z-NDA6Taf6l4J55Y&usqp=CAU",
+        "time":"1",
+        "description":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use"
     }
 ]
