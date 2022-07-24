@@ -12,7 +12,7 @@ const Navbar = () => {
             <li><a>News</a></li>
             <li><a>Coronavirus</a></li>
             <li><a>Sports</a></li>
-            <li><a>Business</a></li>
+            <li> <Link className='link' href="/business"><a>Business</a></Link></li>
             <li><a>Entertainment</a></li>
             <li><a>Life & Living</a></li>
             <li><a>Youth</a></li>
@@ -40,7 +40,7 @@ const Navbar = () => {
             
             <li><a>Coronavirus</a></li>
             <li><a>Sports</a></li>
-            <li><a>Business</a></li>
+            <li> <Link className='link' href="/business"><a>Business</a></Link></li>
             <li><a>Entertainment</a></li>
             <li><a>Life & Living</a></li>
             <li><a>Youth</a></li>
