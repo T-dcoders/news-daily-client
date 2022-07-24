@@ -1,10 +1,14 @@
-import React from "react";
+import Footer from "../components/Footer";
+import Navbar from "../components/Navbar";
 import NewsSlider from "../Components/NewsSlider/NewsSlider";
 
 const index = () => {
   return (
-    <div>
+    <div className="">
+      <Navbar/>
       <NewsSlider></NewsSlider>
+      <Footer/>
+      
     </div>
   );
 };
